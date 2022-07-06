@@ -16,5 +16,8 @@ pnpm i
 ls workspace-app1/node_modules/lodash && echo "peer dep was auto installed successfully"
 ls workspace-app2/node_modules/lodash && echo "peer dep was auto installed successfully"
 
-# expected to work but not seeing these modules installed
+# expected to work but not seeing these modules installed:
+
+# ls: workspace-app1/node_modules/lodash: No such file or directory
+# ls: workspace-app2/node_modules/lodash: No such file or directory
 ```
