@@ -1,0 +1,12 @@
+{
+    "name": "workspace-app2",
+    "version": "0.0.0",
+    "dependencies": {
+        "workspace-main": "workspace:*"
+    },
+    "dependenciesMeta": {
+        "workspace-main": {
+            "injected": true
+        }
+    }
+}

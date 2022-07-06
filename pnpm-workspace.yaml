@@ -1,0 +1,5 @@
+packages:
+    - "."
+    - "workspace-main"
+    - "workspace-app1"
+    - "workspace-app2"

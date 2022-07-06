@@ -1,0 +1,4 @@
+node_modules
+
+# normally would include, but ignoring for sake of reproduction:
+pnpm-lock.yaml
